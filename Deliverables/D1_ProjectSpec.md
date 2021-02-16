@@ -14,8 +14,10 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - turn/lean right when designated button is pressed
 - turn/lean left when designated button is pressed
 
+
 #### Non-Functional Requirements
 - Build it where it can be attached to a skateboard
 - Pad the "Brain" of the robot, NXT
 - Make sure the motors have the power to move the skateboard
+- build a lean apratise
 
