@@ -17,7 +17,7 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 
 #### Non-Functional Requirements
 - Build it where it can be attached to a skateboard
-- Pad the "Brain" of the robot, NXT
+- Pad the "Brain" of the robot, NXT Computer
 - Make sure the motors have the power to move the skateboard
-- build a lean apratise
-
+- build a lean apparatus
+- Make sure I have the updated version of the NXT software
