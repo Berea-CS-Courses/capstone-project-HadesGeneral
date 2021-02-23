@@ -20,6 +20,7 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - Pad the "Brain" of the robot, NXT
 - Make sure the motors have the power to move the skateboard
 - build a lean apratise
+- Find out Skateboard weight --- 3.8 lb
 
 # Helpful Links
 
