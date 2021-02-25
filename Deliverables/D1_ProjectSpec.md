@@ -26,6 +26,7 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 
 - https://www.galileo.org/robotics/design.html: Basic robotics design proccess overview. Expalins how to do it and helpful tips for the entire propcess. 
 - https://www.instructables.com/: Project based site that shows off other individuals projects. Could be uised to get an idea of how other people do things similar to what I am doing.
+- https://www.generationrobots.com/media/Lego-Mindstorms-NXT-Education-Kit.pdf: Manual for the NXT
 
 # Lego Links
 
