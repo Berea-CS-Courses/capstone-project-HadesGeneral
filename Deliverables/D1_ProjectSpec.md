@@ -27,8 +27,9 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - https://www.galileo.org/robotics/design.html: Basic robotics design proccess overview. Expalins how to do it and helpful tips for the entire propcess. 
 - https://www.instructables.com/: Project based site that shows off other individuals projects. Could be uised to get an idea of how other people do things similar to what I am doing.
 - https://www.generationrobots.com/media/Lego-Mindstorms-NXT-Education-Kit.pdf: Manual for the NXT
+- https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US: Google Play downlaod for a app that bluetooth connects to the NXT and controles the motors.
 
-# Lego Links
+# Lego Builds Links
 
 - https://www.youtube.com/watch?v=SxZEp2jIeWY: May 19, 2010 May 19, 2010 -- This shows that NXT can be bluetooth from a phone. It has a link to some documentation in the description of the build.
 - https://www.youtube.com/watch?v=TDOkVH48b9g: Sep 8, 2018 All Lego Power Functions Motors Comparison | Speed, RPM and Power -- This can help better understand the differences between motors adn what might be best for me.
