@@ -20,7 +20,7 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - Pad the "Brain" of the robot, NXT
 - Make sure the motors have the power to move the skateboard
 - build a lean apratise
-- Find out Skateboard weight --- 3.8 lb
+- done --- Find out Skateboard weight --- 3.8 lb
 
 # Helpful Links
 
@@ -29,7 +29,9 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 
 # Lego Links
 
+- https://www.youtube.com/watch?v=SxZEp2jIeWY: May 19, 2010 May 19, 2010 -- This shows that NXT can be bluetooth from a phone. It has a link to some documentation in the description of the build.
 - https://www.youtube.com/watch?v=TDOkVH48b9g: Sep 8, 2018 All Lego Power Functions Motors Comparison | Speed, RPM and Power -- This can help better understand the differences between motors adn what might be best for me.
 - https://www.youtube.com/watch?v=KbpmNvCJI-Q&pbjreload=101: Aug 2, 2019 LEGO Technic Powered Up motors vs. Power Functions motors -- Extra selection for motors.
 - https://www.youtube.com/watch?v=MdfUSNzc0Xk: Jun 30, 2020 Building a Lego-powered Submarine 2.0 - magnetic couplings -- Shows a complex system with parts being used. Could be helpful on how to best used the motors. Gives weight and could be helpful on seeing how much the motors can move. 
 - https://www.youtube.com/watch?v=jRn5waE0qfk: Mar 14, 2020 Can Lego BREAK a Steel Axle? -- Can get an idea of gear set up to get the most use out of one motor. 
+
