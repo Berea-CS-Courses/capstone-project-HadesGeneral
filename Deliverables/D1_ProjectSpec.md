@@ -36,3 +36,4 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - https://www.youtube.com/watch?v=KbpmNvCJI-Q&pbjreload=101: Aug 2, 2019 LEGO Technic Powered Up motors vs. Power Functions motors -- Extra selection for motors.
 - https://www.youtube.com/watch?v=MdfUSNzc0Xk: Jun 30, 2020 Building a Lego-powered Submarine 2.0 - magnetic couplings -- Shows a complex system with parts being used. Could be helpful on how to best used the motors. Gives weight and could be helpful on seeing how much the motors can move. 
 - https://www.youtube.com/watch?v=jRn5waE0qfk: Mar 14, 2020 Can Lego BREAK a Steel Axle? -- Can get an idea of gear set up to get the most use out of one motor.
+- https://www.youtube.com/watch?v=onisfWx4I_g: Sep 9, 2017 Sep 9, 2017 -- NEEDED FOR WEIGHT SHIFTING
