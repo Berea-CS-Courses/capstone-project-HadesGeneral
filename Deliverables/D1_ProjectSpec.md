@@ -23,6 +23,10 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - build a lean apratise
 - done --- Find out Skateboard weight --- 3.8 lb
 
+# Software
+- NXT Programing - https://education.lego.com/en-us/downloads/retiredproducts/nxt/software: Neeeded to code the NXT brain
+- Lego Digital Designer - https://www.lego.com/en-us/ldd: Needed to make models and find part names, part numbers, and size comparision.
+
 # Helpful Links
 
 - https://www.galileo.org/robotics/design.html: Basic robotics design proccess overview. Expalins how to do it and helpful tips for the entire propcess. 
