@@ -50,23 +50,23 @@
 
 # Prioritization
 1. Skateboard
-  1. board
-  1. trucks/axels
-  1. bearings
-  1. wheels
+    1. board
+    1. trucks/axels
+    1. bearings
+    1. wheels
 1. NXT Mind
-  1. Phisical NXT
-  1. NXT software
-  1. NXT code specific for my project
-  1. NXT cords
-  1. NXT motors
+    1. Phisical NXT
+    1. NXT software
+    1. NXT code specific for my project
+    1. NXT cords
+    1. NXT motors
 1. Lean Apparatus
-  1. Weight
-  1. gears
-  1. Legos
-  1. NXT motor
+    1. Weight
+    1. gears
+    1. Legos
+    1. NXT motor
 1. Lego Infrastructure 
-  1. Different Legos
-  1. Velcro
-  1. Lego Wheels 
-  1. Gears
+    1. Different Legos
+    1. Velcro
+    1. Lego Wheels 
+    1. Gears
