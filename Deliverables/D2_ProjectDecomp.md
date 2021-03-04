@@ -27,26 +27,27 @@
 
 # Small Components
 - Skateboard
-  - bearings
-  - wheels
+  - wheels 
+    - bearings
   - trucks/axels
   - board
 - NXT Mind
   - Phisical NXT
   - NXT software
-  - NXT code specific for my project
+    - NXT code specific for my project
   - NXT cords
   - NXT motors
 - Lego Infrastructure 
   - Different Legos
   - Velcro
   - Lego Wheels 
-  - Gears
+    - Gears
 - Lean Apparatus
   - Weight
-  - gears
-  - Legos
-  - NXT motor
+  - Linear Actuator
+    - gears
+    - Legos
+    - NXT motor
 
 # Prioritization
 1. Skateboard
