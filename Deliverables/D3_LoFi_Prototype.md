@@ -26,7 +26,7 @@
 
 # Cardboard Prototype
 
-- This is the Cardboard Prototype of the Robot Skateboard. The string is to represent the cords to the motors and NXT. The arrows are to represent how the weight, the black colored part on top, would move. On a X axis, left and right. The box under the weight is the NXT and the padding around it.
+- This is the Cardboard Prototype of the Robot Skateboard. The string is to represent the cords to the motors and NXT. The arrows are to represent how the weight, the black colored part on top, would move. On a X axis, left and right. The box under the weight is the NXT and the padding around it. The Board weights 3.5 lb and at the widest point is roughly 7 inches across.
 
 ![](/Images/PXL_20210311_013310679.jpg)
 ![](/Images/PXL_20210311_013320914.jpg)
