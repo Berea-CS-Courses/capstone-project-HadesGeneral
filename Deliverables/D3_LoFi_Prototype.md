@@ -4,7 +4,7 @@
 
 - This is a sketch of the app that will be used to control the NXT Mind
 
-![](/Images/PXL_20210311_013158753.jpg)
+![](/Images/PXL_20210318_012306056.jpg)
 
 ### Robot Skateboard
 
