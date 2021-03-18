@@ -19,8 +19,13 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - Build it where it can be attached to a skateboard
 - Pad the "Brain" of the robot, NXT
 - Make sure the motors have the power to move the skateboard
+- Make sure I have the updated version of the NXT software
 - build a lean apratise
 - done --- Find out Skateboard weight --- 3.8 lb
+
+# Software
+- NXT Programing - https://education.lego.com/en-us/downloads/retiredproducts/nxt/software: Neeeded to code the NXT brain
+- Lego Digital Designer - https://www.lego.com/en-us/ldd: Needed to make models and find part names, part numbers, and size comparision.
 
 # Helpful Links
 
