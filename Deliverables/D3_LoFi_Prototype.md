@@ -6,6 +6,11 @@
 
 ![](/Images/PXL_20210318_012306056.jpg)
 
+- This is the app on the phone.
+
+![](/Images/Screenshot_20210318-132043.png)
+
+
 ### Robot Skateboard
 
 - These are the sketches of how the Robot Skatebord would look like.
