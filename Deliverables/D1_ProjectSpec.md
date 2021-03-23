@@ -33,6 +33,7 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - https://www.instructables.com/: Project based site that shows off other individuals projects. Could be uised to get an idea of how other people do things similar to what I am doing.
 - https://www.generationrobots.com/media/Lego-Mindstorms-NXT-Education-Kit.pdf: Manual for the NXT
 - https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US: Google Play downlaod for a app that bluetooth connects to the NXT and controles the motors.
+- https://www.lego.com/en-us/page/static/pick-a-brick?query=&page=1 Lego site where you can order parts. 
 
 # Lego Builds Links
 
