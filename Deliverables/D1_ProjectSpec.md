@@ -1,18 +1,17 @@
 # Overview
-I would like to build a lego robot that will be attached to a skateboard. The user will be able to control said robot remotely, which would entail making it move forward, reverse, and stear the skateboard. 
+I would like to build a lego robot that will be attached to a skateboard. The user will be able to control said robot remotely, which would entail making it move forward and stear the skateboard. 
 If time permits I would like it to drive itself as best as I can make it. I want to prove that with the right equipment and time this can become a system that a user can ride and it moves to a user set location.
 
 # Concept
-What is in scope of this class is making a lego robot that can be attached to a skateboard and make it move forward and reverse by a user. The next step would make it be able to turn left and right. 
-What is out of scope is the ability to make it self drive itself and have it have enough power to support a rider. It would like this to be a concept idea of a self driving skateboard that a user rides. 
-Setting a destination and they imply ride it. Similar to a self driving car. 
+What is in scope of this class is making a lego robot that can be attached to a skateboard and make it move forward. The next step would make it be able to turn left and right at will of the user that controls it via an app. 
+What is out of scope is the ability to make it self drive itself and have it have enough power/structure to support a rider. I would like this to be a concept idea of a self driving skateboard that a user rides. Setting a destination and they simply ride it. Similar to a self driving car. 
 
 # Requirements
 #### Functional Requirements
 - Move forward when designated button is pressed
 - Move backwards when designated button is pressed
-- turn/lean right when designated button is pressed
-- turn/lean left when designated button is pressed
+- Move weight to left side to turn left when a button is pressed.
+- Move weight to right side to turn right when a button is pressed.
 
 
 #### Non-Functional Requirements
@@ -21,18 +20,18 @@ Setting a destination and they imply ride it. Similar to a self driving car.
 - Make sure the motors have the power to move the skateboard
 - Make sure I have the updated version of the NXT software
 - build a lean apratise
-- done --- Find out Skateboard weight --- 3.8 lb
+- Find out Skateboard weight --- 3.8 lb
 
 # Software
 - NXT Programing - https://education.lego.com/en-us/downloads/retiredproducts/nxt/software: Neeeded to code the NXT brain
 - Lego Digital Designer - https://www.lego.com/en-us/ldd: Needed to make models and find part names, part numbers, and size comparision.
+- NXT Remote control - https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US: Google Play downlaod for a app that bluetooth connects to the NXT and controles the motors. 
 
 # Helpful Links
 
 - https://www.galileo.org/robotics/design.html: Basic robotics design proccess overview. Expalins how to do it and helpful tips for the entire propcess. 
 - https://www.instructables.com/: Project based site that shows off other individuals projects. Could be uised to get an idea of how other people do things similar to what I am doing.
 - https://www.generationrobots.com/media/Lego-Mindstorms-NXT-Education-Kit.pdf: Manual for the NXT
-- https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US: Google Play downlaod for a app that bluetooth connects to the NXT and controles the motors.
 - https://www.lego.com/en-us/page/static/pick-a-brick?query=&page=1 Lego site where you can order parts. 
 
 # Lego Builds Links
