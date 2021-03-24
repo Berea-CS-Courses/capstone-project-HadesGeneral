@@ -1,5 +1,7 @@
 ## Proof of Concept
 
+[![No Weight](https://img.youtube.com/vi/UOBMNFqDALw/0.jpg)](https://youtu.be/UOBMNFqDALw)
+
 ## Concept Documentation
 
 ## Updates
