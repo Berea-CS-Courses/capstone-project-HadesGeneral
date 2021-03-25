@@ -39,9 +39,9 @@
 
 ## Concept Documentation
 
-1.What external software or tools are needed to run your proof-of-concept? (e.g, general dependencies, build systems, or other frameworks.)
+1. What external software or tools are needed to run your proof-of-concept? (e.g, general dependencies, build systems, or other frameworks.)
 
-  - This is the NXT Remote Control App. It can be found on the Google play store [HERE](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US).
+  - This is the NXT Remote Control App. It can be found on the Google play store [HERE](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US). To move forward you slide up from the middle of the bar on the left and right to make the motors move clockwise. Further from the middle of the bar determines the power output of the motors. The further away from the middle, the more power that is given. Sliding down from the middle makes the motors turn counter-clockwise. 
 
 ![App Control Scheme](/Images/Screenshot_20210318-132043.png)
 
@@ -71,6 +71,7 @@
 - D1 - Updated Concept, Requirements, Software, and overall cleaned up the document
 - D2 - Updated Small Components, Prioritization, and overall cleaned up the document
 - D3 - Added an Entity Relationship Diagram, updated Reflection, and overall cleaned up the document
+- Photos - Added photos of the Robot to the photos folder
 
 ## Reflection
 
