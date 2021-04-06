@@ -41,6 +41,8 @@
 
 1. What external software or tools are needed to run your proof-of-concept? (e.g, general dependencies, build systems, or other frameworks.)
 
+  - I am using the Lego NXT Mindstorm Brick as the brain of the entire project. It can be found [HERE](https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-intelligent-brick/45500?gclid=CjwKCAjwjbCDBhAwEiwAiudBy8WWiBxQ1Vf-HBc45tcoCppfDY5ScUocorWwAFzRf5CkT-fhhYTahRoCNf4QAvD_BwE&ef_id=CjwKCAjwjbCDBhAwEiwAiudBy8WWiBxQ1Vf-HBc45tcoCppfDY5ScUocorWwAFzRf5CkT-fhhYTahRoCNf4QAvD_BwE:G:s&s_kwcid=AL!790!3!407201200497!!!g!295974719006!) on Lego's education sid eof their site.
+
   - This is the NXT Remote Control App. It can be found on the Google play store [HERE](https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en_US&gl=US). To move forward you slide up from the middle of the bar on the left and right to make the motors move clockwise. Further from the middle of the bar determines the power output of the motors. The further away from the middle, the more power that is given. Sliding down from the middle makes the motors turn counter-clockwise. 
 
 ![App Control Scheme](/Images/Screenshot_20210318-132043.png)
