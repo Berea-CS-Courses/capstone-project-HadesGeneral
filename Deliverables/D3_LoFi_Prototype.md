@@ -13,7 +13,7 @@
 
 ### Robot Skateboard
 
-- These are the sketches of how the Robot Skatebord would look like.
+- These are the sketches of how the Robot Skateboard  would look like.
 
 ![](/Images/PXL_20210311_013209626.jpg)
 ![](/Images/PXL_20210311_013221552.jpg)
@@ -23,6 +23,12 @@
 - This is the Data Flow Diagram of how the app and robot would work together. I chose this type since it was the closest one that could represent the flow of things when it came to interacting with the Robot Skateboard.
 
 ![](/Images/Data_Flow_Diagram.JPG)
+
+# Entity Relationship Diagram
+
+- This is the Entity Relationship Diagram to show off how the different parts interact with each other. The colored arrows designate the flow of one action the robot. 
+
+![](/Images/Robot_Skateboard_Entity_Relationship_Diagram.JPG)
 
 # Cardboard Prototype
 
@@ -35,10 +41,10 @@
 # Reflection
 
 - How was the process of creating your prototype?
-  - A bit tedious since i had to go to different stores for the right parts for cheap. But, it was fun making the cardboard prototype. Allowed me to create what I had in mind better then drawing it.
+  - A bit tedious since I had to go to different stores for the right parts for cheap. But it was fun making the cardboard prototype. Allowed me to create what I had in mind better then drawing it.
 - How did this process guide, clarify, or inform your design process?
-  - It allowed me to visulize it better and get a sense of how the rest of the build might go. Get a better undersanding of where things might go as well.
+  - It allowed me to visualize it better and get a sense of how the rest of the build might go. Get a better understanding of where things might go as well.
 - What lingering questions do you have regarding modeling or prototyping?
   - None at this moment.
 - How prepared do you feel to start tackling the implementation of the system you have modeled and prototyped? 
-  - I feel confident in doing it as soon as I get the needed parts.
+  - I feel confident in doing it as soon as I get the needed parts. I have what is needed to attach the NXT brain to the board and make it move forward through the app. Making it turn will have to be done with a platform for the weight until I have the necessary parts later. 
