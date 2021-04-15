@@ -9,7 +9,7 @@
     - Specific: Take the built system off the old board, and stransfer it too the new longboard. Run it and see if it struggles to move the longbaord or moves it without trouble.
     - Measurable: Time the smaller board at how mlong it takes to get to the end of the length I have specified. Using the time it takes to determine if it struggles or not.
     - Achievable: This can be done easily, but the difficulty might come from the length of the board difference, otherwise this is achievable.
-  - Create a protoyype great system that could help make the linear actuator move faster.
+  - Create a protoyype gear system that could help make the linear actuator move faster.
     - Specific: Take bigger and smaller gears, attach them to a platform that can have a wheel with tap on it attached to it as well.
     - Measurable: The tape on the wheel will help see how fast the wheel is moving on the different axels through the gear system. To determine if it is going faster with which gear combination.
     - Achiveable: This can be done within an hour witht he help of a video that can be found within my D1 Document about gear speeds.
