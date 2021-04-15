@@ -88,3 +88,22 @@
 
 - What do you need from instructors and teaching assistants to better help you implement, understand, or otherwise think about your project?
 	- At this time, I am not sure of anything specific I need help with.
+
+
+## Testing
+
+# Longbaord Test
+
+  - In this video I am showing off that the system I have currently created has the power to move a board that is heavier than the prehvious one. This baord weights roughly 8.8 lb. This is a little over two and half times the weight of the 3.5 lb baord. This is promising and lets me know the system and move with more weight with minor difficulty.
+
+[![Longboard Test](https://img.youtube.com/vi/PxLmkoWhS8k/0.jpg)](https://youtu.be/PxLmkoWhS8k)
+
+# Gear System
+
+  - Here I am showing off  the gear setup that could help move the weight faster. The wheel is on the middle axle because this allows o nthe lthe first two gears (large gear on the left, and small gear right in front of it) to manipulate it. The other two (the right larger gear and small one in front of it) don't do anything currently. The piece of tape is there to show the speed of the wheel while turning it.
+
+[![Gear System - Two Gear](https://img.youtube.com/vi/gz6hHgDXq0U/0.jpg)](https://youtu.be/gz6hHgDXq0U)
+
+  - Here is the sname gear system but the wheel is on the back axle so that all the gears are manipulating it. This is to show that becaus of this gear system, with less roation of the initial axle, the wheel turns faster than in the prehvious video above. This will allow me to see if a two or a four gear system is needed to move the weight to the speed I need. 
+
+[![Gear System - Four Gear](https://img.youtube.com/vi/2eLd3TePotY/0.jpg)](https://youtu.be/2eLd3TePotY)
