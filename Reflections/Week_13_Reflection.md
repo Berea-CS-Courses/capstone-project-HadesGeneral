@@ -13,12 +13,14 @@
     - Specific: I previously tested the prototype of the system on a road that was not completely flat. The sides rose towards the middle, similar to a small hill. This may have an effect on the movement of the system since it would need more power to go up the inclines when turning. 
     - Measurable: Make a setup where I can show the time different of how long it takes to go from the middle, one side, and then to the other on the road and then a flatter terrain. 
     - Achievable: This is achievable, the only constrain is time. With work and other school obligations it is hard to find time to do something like this.
-  - Added a bump sensor. (3+ hours)
+  - Add a bump sensor. (3+ hours)
     - Specific: As a stretch goal I would like to add a bump sensor. This is a button like part that can integrate into the Lego Mindstorms. This will allow me to make a program that when the button is pressed it will shut off all functions then make the motors back up the skateboard. As an emergency backup system of sorts. 
     - Measurable: If the button is pressed and it stops functions for a moment, then makes the skateboard back up then this shows I have done it. 
     - Achievable: This is sort of because the coding is semi-unfamiliar so coding this will be hard. I also do not want to break the system I have built so far, so I am wary for it all so far.
 4. What resources will you use to accomplish your goals for the upcoming week? (please list out the resources)
   - Current system
+    - Linear Acutator
+    - Previous Robot Skateboard
   - Tape
   - Stopwatch
   - Button sensor
