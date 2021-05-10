@@ -22,6 +22,8 @@
    Purpose: To control the different motors and sensors of the overall system. 
    
    Found Bugs/mechanical defects: When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
+   
+   Limits: The bluetooth has a limit of ADD DISTANT HERE
             
    #### Wheels
    Purpose: To move the system forward. 
@@ -47,6 +49,13 @@
    ### Rules
     
    - Weight movement limiter??
+   - Don't hit cones
+   - Get from one end of the line of cones to the other
+   
+   ### Setup
+   
+   - Have cones 5 feet apart from eachother with there being 6 cones in total.
+   - 
 
 # Documentation
 
