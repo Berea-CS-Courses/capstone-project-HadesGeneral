@@ -7,31 +7,38 @@
    #### Linear Acruator
    Purpose: To turn the device by utilizing weight to lean the skateboard one side to the other. 
    
-   Findings -
+   **Findings -**
    
    - Here I show off the actuator moving with 2.5 lbs. This is what I have been using with the system so far. This is becasue I think this is the ideal weight that isn't to heavy to break the actuator, but heavy enough to make the skateboard turn. 
-
-
-   - Here I show off the actuator moving with 5 lbs. 
    
-   Found Bugs/mechanical defects: The worm gears that the platform is uses to move from one side to the other are not made to perfectly fit together, and so there is minor friction created from this. Making the whole system work harder to get the speed needed.
+   [![2.5 lb Linear Actuator](https://img.youtube.com/vi/gh21PnaThnI/0.jpg)](https://youtu.be/gh21PnaThnI)
+   
+   - Here I show off the actuator moving with 5 lbs. This is video shows that the Lineat Actuator starts to slow down with more weight. This is becasue of the NXT motor not having enough power to move such a weight fast enough.
+
+   [![5 lb Linear Actuator](https://img.youtube.com/vi/rEQufCh28vo/0.jpg)](https://youtu.be/rEQufCh28vo)
+   
+   - Here I show off the actuator moving with 7.5 lbs. This is video shows that the Lineat Actuator starts to slow down and basically stops with the current weight. This is becasue of the NXT motor not having enough power to move such a weight.
+
+   [![7.5 lb Linear Actuator](https://img.youtube.com/vi/GQlalKLsaHY/0.jpg)](https://youtu.be/GQlalKLsaHY)
+   
+   **Found Bugs/mechanical defects:** The worm gears that the platform is uses to move from one side to the other are not made to perfectly fit together, and so there is minor friction created from this. Making the whole system work harder to get the speed needed.
          
  ----------------------------------------------------------------------------   
    #### NXT App
    Purpose: To control the different motors and sensors of the overall system. 
    
-   Found Bugs/mechanical defects: When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
+   **Found Bugs/mechanical defects:**  When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
    
-   Limits: The bluetooth has a limit of ADD DISTANT HERE
+   **Limits:** The bluetooth has a limit of ADD DISTANT HERE
         
  ----------------------------------------------------------------------------          
    #### Wheels
    Purpose: To move the system forward normally. When the button sensor is activated the wheels then transprt the Robitic Skateboard backwards to get way from what it hit infront of it.
    
-   Findings: 
+   **Findings -**
    
    
-   Found Bugs/mechanical defects: 
+   **Found Bugs/mechanical defects:**
         
  ----------------------------------------------------------------------------          
    #### Button Sensor
@@ -39,7 +46,7 @@
    
    Findings:
    
-   Found Bugs/mechanical defects: When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
+  **Found Bugs/mechanical defects:** When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
             
       
  ----------------------------------------------------------------------------
