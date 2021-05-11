@@ -28,10 +28,10 @@
    #### NXT App
    Purpose: To control the different motors and sensors of the overall system. 
    
+   **Limits:** The bluetooth has a limit of ADD DISTANT HERE
+   
    **Found Bugs/mechanical defects:**  When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
    
-   **Limits:** The bluetooth has a limit of ADD DISTANT HERE
-        
  ----------------------------------------------------------------------------          
    #### Wheels
    Purpose: To move the system forward normally. When the button sensor is activated the wheels then transprt the Robitic Skateboard backwards to get way from what it hit infront of it.
@@ -66,8 +66,7 @@
    Findings:
    
   **Found Bugs/mechanical defects:** When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
-            
-      
+           
  ----------------------------------------------------------------------------
   
   ## Cognitive Walkthrough 
@@ -80,14 +79,16 @@
    
    ### Rules
     
-   - Weight movement limiter??
-   - Don't hit cones
+   - When moving the weight to turn the Skateboard, try not to move 
+   - Try not to hit any of the cones
    - Get from one end of the line of cones to the other
    
    ### Setup
    
    - Have cones 5 feet apart from eachother with there being 6 cones in total.
-   - 
+   - Robtic Skateboard is set 5 feet from the first cone.
+   - Tester is given phone with the app
+   - I have a recording device ready to record.
 
 # Documentation
 
