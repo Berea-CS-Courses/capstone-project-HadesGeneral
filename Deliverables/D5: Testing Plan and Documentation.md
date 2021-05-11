@@ -69,26 +69,18 @@
            
  ----------------------------------------------------------------------------
   
-  ## Cognitive Walkthrough 
-  
-  Here I will be having testers read through instructions and rules of the test where I will have them follow while operating the Robotic Skateboard. Recording what they say, do, and their suggestions while completeing the test. 
+  ## Vertical End-to-End Testing 
     
-   ### Instructions
+   ### Test Enviroment
    
-   I (Brian) will give the Tester my phone to allow them to control the Robotic Skateboard through the NXT app that i ahve used thus far in the project. I will give them a small demintration on how the controls work on the app. Run through the rules with them, and the goal I wish for them to complete using the app and the Robotic Skateboard. The goal for this test will have the Testers control the Skateboard and manuver it from one end of obstical course to the other. This obstical course will be comprised of a cones spaced roughly euqual distances apart from eachother. The Tester will have to swerve/move in and out of the cones while trying to get from one end of the cones to the other without touching them.
-   
-   ### Rules
-    
-   - When moving the weight to turn the Skateboard, try not to move 
-   - Try not to hit any of the cones
-   - Get from one end of the line of cones to the other
+   I will test how the Robotic Skateboard works all together. I will achieve this by seeing where the limits of turning capability of the system is and the max distance it can travel. In the image below will be the layout of the test enviorement. There will be two cones to indicate the starting place for the Skateboard. The second one will be the ending of bluetooth connection if the Skateboard went straight. The third cone will be placed where the system lands when turning at its tightest capability to the left or right and meets the end point of the bluetooth connection distance. This will be shown with the ideal 2.5 lbs and 5 lbs being used. 
    
    ### Setup
    
-   - Have cones 5 feet apart from eachother with there being 6 cones in total.
-   - Robtic Skateboard is set 5 feet from the first cone.
-   - Tester is given phone with the app
-   - I have a recording device ready to record.
+   - Have two cones ADD BLUETOOTH MAX DISTANCE HERE feet apart from each other. That is the the max amount of feet before the Bluetooth cuts out and doesn't work anymore.
+   - Camera recording behind the test enviuroment to capture this all.
+   - Tape measure to get distances.
+   - Third cone to find max turning capability.
 
 # Documentation
 
