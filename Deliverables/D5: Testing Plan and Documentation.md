@@ -5,6 +5,7 @@
  ----------------------------------------------------------------------------  
    
    #### Linear Acruator
+   
    Purpose: To turn the device by utilizing weight to lean the skateboard one side to the other. 
    
    **Findings -**
@@ -37,8 +38,26 @@
    
    **Findings -**
    
+   - Here I show off the wheel system moving with 2.5 lbs. This is the ideal amount since it moves easily with minimal problems. This is also the ideal amount that is needed to make the Skatebaord lean to the side that weight is on. 
+
+[![2.5 lb Wheels](https://img.youtube.com/vi/koPFEo0PfT0/0.jpg)](https://youtu.be/koPFEo0PfT0)
+
+   - Here I show off the wheel system moving with 5 lbs. In this video you can see that system works very similar to when 2.5 lbs were on it. But, it is has ever so slightly slowed down. This is because of how much power the two wheel motors can output.
+
+[![5 lb Wheels](https://img.youtube.com/vi/HSez85GzGCU/0.jpg)](https://youtu.be/HSez85GzGCU)
+
+   - Here I show off the wheel system moving with 10 lbs. In this video you can see that system starts to slow down a lot more. 
+
+[![10 lb Wheels](https://img.youtube.com/vi/_Bh3O8xH8Ak/0.jpg)](https://youtu.be/_Bh3O8xH8Ak)
+
+   - Here I show off the wheel system moving with 15 lbs. In this video you can see that system slows down a lot.
+[![15 lb Wheels](https://img.youtube.com/vi/sFppsuWv2bI/0.jpg)](https://youtu.be/sFppsuWv2bI)
+
+   - Here I show off the wheel system moving with 17.5 lbs. In this video you can see that system works very similar to when 15 lbs. It is moving very slowly, almost to a crawl. 
+
+[![17.5 lb Wheels](https://img.youtube.com/vi/WfyRhPaAnao/0.jpg)](https://youtu.be/WfyRhPaAnao)   
    
-   **Found Bugs/mechanical defects:**
+   **Found Bugs/mechanical defects:** Anything over 17.5 lbs will make the wheel system not work and not move the skateboard. 
         
  ----------------------------------------------------------------------------          
    #### Button Sensor
