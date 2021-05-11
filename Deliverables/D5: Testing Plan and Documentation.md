@@ -1,10 +1,8 @@
-# Testing
-
-  ## Unit Testing
+# Components Unit Testing
   
   Here I will be braking down the Robotic Skateboard down into different components. Testing each to find their individual limits, ideal usability, and any problems/bugs that arise through this.
-    
-   ### Components
+
+ ----------------------------------------------------------------------------  
    
    #### Linear Acruator
    Purpose: To turn the device by utilizing weight to lean the skateboard one side to the other. 
@@ -16,22 +14,30 @@
 
    - Here I show off the actuator moving with 5 lbs. 
    
-   Found Bugs/mechanical defects: The worm gears that the platform is 
-      
+   Found Bugs/mechanical defects: The worm gears that the platform is uses to move from one side to the other are not made to perfectly fit together, and so there is minor friction created from this. Making the whole system work harder to get the speed needed.
+         
+ ----------------------------------------------------------------------------   
    #### NXT App
    Purpose: To control the different motors and sensors of the overall system. 
    
    Found Bugs/mechanical defects: When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
    
    Limits: The bluetooth has a limit of ADD DISTANT HERE
-            
+        
+ ----------------------------------------------------------------------------          
    #### Wheels
-   Purpose: To move the system forward. 
+   Purpose: To move the system forward normally. When the button sensor is activated the wheels then transprt the Robitic Skateboard backwards to get way from what it hit infront of it.
    
-   Found Bugs/mechanical defects:
-            
+   Findings: 
+   
+   
+   Found Bugs/mechanical defects: 
+        
+ ----------------------------------------------------------------------------          
    #### Button Sensor
    Purpose: To stop all motors and back the system up, moving it away from what it had bumped into. 
+   
+   Findings:
    
    Found Bugs/mechanical defects: When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sesnor code will cease to work from there on, but the NXT app will work still.
             
