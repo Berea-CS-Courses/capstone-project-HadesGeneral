@@ -64,10 +64,6 @@
 
 [![17.5 lb Wheels](https://img.youtube.com/vi/WfyRhPaAnao/0.jpg)](https://youtu.be/WfyRhPaAnao)   
 
-   - In this video I test out the wheels capability of going over different terrain. This video has Smooth sidewalk concrete, asphalt, and grass. There does not seem to be too much noticeable difference in speed and traction when going from the concrete to asphalt. The wheels/overall system could not go over and into the grass. I believe this is because of the sharp uneven surface compared to the concrete and asphalt. They are relatively level, whereas the grass is definitely not. I also think the Lego wheels and the skateboard wheels do not have the traction to get through the grass. The motors as well might not have the power to do it to.
-   
-   [![Multiple Surfaces Test](https://img.youtube.com/vi/05nogra6AQk/0.jpg)](https://youtu.be/05nogra6AQk)
-   
    **Found Bugs/mechanical defects:** Anything over 17.5 lbs will make the wheel system not work and not move the skateboard. 
      
  ----------------------------------------------------------------------------          
@@ -75,17 +71,28 @@
    
    **Purpose:** To stop all motors and back the system up, moving it away from what it had bumped into. 
    
-   Findings:
+   - Here is a video showing off the button on the Robotic Skateboard. It shows off me using the NXT app to move the skateboard forward into a door. When it hits the door, it backs up. I do this a couple times to demenstrat the fucntion. The last time you see it run into the door, I actually manually back it up using the app. The stutters in the video is me inching forward to activate the program, but trying not to trigger the bug.
+
+[![Button Sensor Test](https://img.youtube.com/vi/71WgdFV5uuM/0.jpg)](https://youtu.be/71WgdFV5uuM)
+
    
   **Found Bugs/mechanical defects:** When pressing a button or sending an input from the app to the NXT at the same time the Button Sensor is being activated, it will break the button sensor code. The button sensor code will cease to work from there on, but the NXT app will work still.
            
  ----------------------------------------------------------------------------
   
   ## Vertical End-to-End Testing 
-    
-   ### Test Environment
+  
+   ### Surface Tests
    
-   I will test how the Robotic Skateboard works all together. I will achieve this by seeing where the limits of turning capability of the system is and the max distance it can travel. In the image below will be the layout of the test environment. There will be two cones to indicate the starting place for the Skateboard. The second one will be the ending of bluetooth connection if the Skateboard went straight. The third cone will be placed where the system lands when turning at its tightest capability to the left or right and meets the end point of the bluetooth connection distance. This will be shown with the ideal 2.5 lbs and 5 lbs being used. 
+   I will be testing the Robotic Skateboard moving over multiple surfaces.  Specifically looking at smooth concrete, asphalt, grass, and gravel.
+   
+   - This video has Smooth sidewalk concrete, asphalt, and grass. There does not seem to be too much noticeable difference in speed and traction when going from the concrete to asphalt. The wheels/overall system could not go over and into the grass. I believe this is because of the sharp uneven surface compared to the concrete and asphalt. They are relatively level, whereas the grass is definitely not. I also think the Lego wheels and the skateboard wheels do not have the traction to get through the grass. The motors as well might not have the power to do it to.
+   
+   [![Multiple Surfaces Test](https://img.youtube.com/vi/05nogra6AQk/0.jpg)](https://youtu.be/05nogra6AQk)
+    
+   ### Turn Test
+   
+   I will achieve this by seeing where the limits of turning capability of the system is and the max distance it can travel. In the image below will be the layout of the test environment. There will be two cones to indicate the starting place for the Skateboard. The second one will be the ending of bluetooth connection if the Skateboard went straight. The third cone will be placed where the system lands when turning at its tightest capability to the left or right and meets the end point of the bluetooth connection distance. This will be shown with the ideal 2.5 lbs and 5 lbs being used. 
    
    ### Setup
    
