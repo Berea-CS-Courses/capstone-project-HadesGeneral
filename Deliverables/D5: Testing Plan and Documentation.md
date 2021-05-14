@@ -93,6 +93,8 @@
    - Here is the video that shows off the Robtic Skateboard going over gravel. Gravel seems to be an inbetween surface material for the system to go over. The system seems to struggle with tracktion, but not as much as grass. It grips sometimes, moves for a bit, then stops form loss of tracktion again. I belive this is becasue of the uneven surface casued by the gravel. 
 
   [![Gravel Test](https://img.youtube.com/vi/golZGyZ3UzM/0.jpg)](https://youtu.be/golZGyZ3UzM)
+  
+  **Findings-** This tells me that the best terrain to use this system on ios either asphalt or concrete. Adding in uneven surfaces, or textures that don't allow much tracktion hinders the move ability of the Robotic Skateboard.
     
    ### Turn Test
    
@@ -102,11 +104,13 @@
 
    [![Showing Off the Basketball Court](https://img.youtube.com/vi/K18NLjnTsm4/0.jpg)](https://youtu.be/K18NLjnTsm4)
    
-   - Left Turn: Here is the video o
+   - Left Turn: The system went 20 ft and 56 inches (284 inches) from the middle of the court, and went about 20 ft and 46 inches (284 inches) from the side line. How I found this was from the side line going up I recorded the distanc till the skateboard was across from me. Then recorded the distance from the middle line to the skateboard. With those measurements we can get the angle it turned, which was 90 degrees. 
    
    [![Left Turning Test](https://img.youtube.com/vi/lF7XPeCLrFo/0.jpg)](https://youtu.be/lF7XPeCLrFo)
    
-   - Right Turn: 
+   - Right Turn: The system went 20 ft and 54 inches (284 inches) from the middle of the court, and went about 20 ft and 54 inches (284 inches) from the side line. How I found this was from the side line going up I recorded the distanc till the skateboard was across from me. Then recorded the distance from the middle line to the skateboard. With those measurements we can get the angle it turned, which was 90 degrees. 
 
    [![Left Turning Test](https://img.youtube.com/vi/ExLy9khiM44/0.jpg)](https://youtu.be/ExLy9khiM44)
+   
+   **Findings:** I was pleasently suprised by how close the measurements were, and was more suprised I was able to achieve 90 degrees on both tests. This tells me that both sides have such minor weight differences that they turn about the same amount. It also tells me that this system doesn't turn fast. This is becasue of the weight, and power of the motors. If the motors could just as fast, but with more weight then I belive the turing 90 degrees could have been achieved with shorter distances.
    
