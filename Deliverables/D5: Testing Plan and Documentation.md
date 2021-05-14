@@ -89,18 +89,24 @@
    - This video has Smooth sidewalk concrete, asphalt, and grass. There does not seem to be too much noticeable difference in speed and traction when going from the concrete to asphalt. The wheels/overall system could not go over and into the grass. I believe this is because of the sharp uneven surface compared to the concrete and asphalt. They are relatively level, whereas the grass is definitely not. I also think the Lego wheels and the skateboard wheels do not have the traction to get through the grass. The motors as well might not have the power to do it to.
    
    [![Multiple Surfaces Test](https://img.youtube.com/vi/05nogra6AQk/0.jpg)](https://youtu.be/05nogra6AQk)
+   
+   - Here is the video that shows off the Robtic Skateboard going over gravel. Gravel seems to be an inbetween surface material for the system to go over. The system seems to struggle with tracktion, but not as much as grass. It grips sometimes, moves for a bit, then stops form loss of tracktion again. I belive this is becasue of the uneven surface casued by the gravel. 
+
+  [![Gravel Test](https://img.youtube.com/vi/golZGyZ3UzM/0.jpg)](https://youtu.be/golZGyZ3UzM)
     
    ### Turn Test
    
-   I will achieve this by seeing where the limits of turning capability of the system is and the max distance it can travel. In the image below will be the layout of the test environment. There will be two cones to indicate the starting place for the Skateboard. The second one will be the ending of bluetooth connection if the Skateboard went straight. The third cone will be placed where the system lands when turning at its tightest capability to the left or right and meets the end point of the bluetooth connection distance. This will be shown with the ideal 2.5 lbs and 5 lbs being used. 
+   The purpose of this test is to see how good the turning capability of the Robotic Skateboard. I am using the Berea Park's basketball court. The Court is 84 ft long, and 50 ft wide. Before moving the system I will position it in the middle of the court. Then, depending on if I am testing the left or right turning I will move the weight so it is on the chosen side as much as possible. Then I will simply make it move forward until the system has rotated oritation rouhgly 90 degrees. Or in other words made a left or right 90 degree turn. I will record the distance of how far it got and compare the sides, utilizing cones to help me record the distances.
    
-   ### Setup
+   - I show off the basketball court and desc
+
+   [![Showing Off the Basketball Court](https://img.youtube.com/vi/K18NLjnTsm4/0.jpg)](https://youtu.be/K18NLjnTsm4)
    
-   - Have two cones ADD BLUETOOTH MAX DISTANCE HERE feet apart from each other. That is the max amount of feet before the Bluetooth cuts out and doesn't work anymore.
-   - Camera recording behind the test environment to capture this all.
-   - Tape measure to get distances.
-   - Third cone to find max turning capability.
+   - Left Turn: Here is the video o
+   
+   [![Left Turning Test](https://img.youtube.com/vi/lF7XPeCLrFo/0.jpg)](https://youtu.be/lF7XPeCLrFo)
+   
+   - Right Turn: 
 
-# Documentation
-
-Here will be where changes directly done to the build of the Robotic Skateboard system I have created so far shown off in Deliverable 4.5.
+   [![Left Turning Test](https://img.youtube.com/vi/ExLy9khiM44/0.jpg)](https://youtu.be/ExLy9khiM44)
+   
